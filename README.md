@@ -14,3 +14,5 @@ For those who don't know what LanSchool/LanSchoolAir is, it's the program teache
 <how> - Command Prompt is an very powerful tool when you know how to use it this here is just a simple " taskkill command on repeat.
  
  Current Password - Viper2022
+ 
+ also come with lil wifi pasword view cmd script
